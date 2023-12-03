@@ -56,7 +56,7 @@ body{
     text-transform: uppercase;
     color: rgb(89, 89, 89);
     font-family: 'Cinzel Decorative', cursive;
-    font-size: 14px;
+    font-size:1rem;
     letter-spacing: 4px;
     font-weight: 700;
     text-decoration: underline;
@@ -64,7 +64,7 @@ body{
     text-decoration-color: #ffbe7e;
 }
 .para{
-    font-size: 14px;
+    font-size: 1rem;
     text-align: justify;
     color: rgb(109, 109, 109);
 
